@@ -8,7 +8,7 @@ Features
 🔐 User authentication with JWT (signup, login, protected routes)
 📋 Create, view, update, and delete job applications
 🗂️ Track application status (applied, interviewing, offered, rejected, etc.)
-🛡️ Protected routes — only authenticated users can access their own data
+🛡️ Protected routes only authenticated users can access their own data
 
 
 Tech Stack
